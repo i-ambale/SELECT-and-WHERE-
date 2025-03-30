@@ -1,4 +1,4 @@
-# 🇺🇳 UN Data Analysis: Access to Basic Services
+# UN Data Analysis: Access to Basic Services
 
 This repository contains a Jupyter Notebook that connects to a local MySQL database (`united_nations`) and explores access to managed drinking water services across different countries using SQL queries.
 
