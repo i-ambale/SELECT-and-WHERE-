@@ -13,7 +13,6 @@ We query and analyze data from the `Access_to_Basic_Services` table, focusing on
 - MySQL
 - SQLAlchemy
 - PyMySQL
-- pandas
 
 ## 📁 Files
 
