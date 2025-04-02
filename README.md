@@ -40,7 +40,7 @@ LIMIT 10;
 ⚙️ Setup Instructions
 1. Clone this repository:
   ```
-  git clone https://github.com/your-username/un-data-sql.git
+  git clone [https://github.com/your-username/un-data-sql.git](https://github.com/i-ambale/SELECT-and-WHERE-)
   ```
 
 2. Start your MySQL server and ensure the united_nations database is running.
